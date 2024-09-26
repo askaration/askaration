@@ -16,7 +16,19 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Currently working on:<br>I'm part of the Transportation Data Science Project (TDSP), where I apply data science techniques to create safer roads through data-driven insights. Key areas include data preparation, ethics, time series, geospatial analysis, and data storytelling.<br><br>Looking to collaborate on:<br>I'm eager to collaborate on data science and machine learning projects, especially in sports data science.<br><br>Looking to help with:<br>I can assist in gathering and analyzing real-time sports advanced statistics.<br><br>Currently learning:<br>Continuously improving my skills in data science, analytics, data visualization, and storytelling across various domains.<br><br>Ask me about:<br>Anything data science-related! If I don't know, I'll find out and learn alongside you.<br><br>Fun fact:<br>I'm a swimmer, water polo player, and tennis fan. I love sports, media, entertainment, and tech—and have even modeled twice!
+
+🚧 **Currently, I am working on the Transportation Data Science Project (TDSP)**, in collaboration with and sponsored by the NorthEastBigData Hub, Columbia University, and the US Department of Transportation. This initiative allows me to apply data science techniques to create safer roads by making data-driven recommendations. I'm involved in all aspects, from data preparation and ethics to time series and geospatial analysis. It's an amazing opportunity to hone skills like Python programming, data visualization, and critical thinking, while creating real-world impact through data storytelling.
+
+🤝 **I'm open to collaborations on data science and machine learning projects**, with a particular passion for sports data science. My goal is to expand my knowledge, gain hands-on experience, and enhance my portfolio through impactful projects.
+
+📊 **I can help with real-time sports advanced statistics**, especially focusing on the collection, analysis, and interpretation of data to drive performance insights.
+
+📚 **I’m currently learning more about data science, analytics, visualization, and storytelling**, and I’m excited to apply these skills across diverse domains, especially in sports and entertainment.
+
+💡 **Ask me about any data science-related topics!** Even if I don’t know the answer, your question will inspire me to find it and learn together.
+
+🏊‍♂️ **Fun fact:** I'm a swimmer, water polo player, and tennis enthusiast. I love watching sports live, and I’ve even modeled twice! My passions revolve around sports, media, entertainment, and tech.
+
 
 
 ## 🌐 Socials:
