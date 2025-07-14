@@ -1,42 +1,45 @@
 ## Hi there 👋
 
-<!--
-**askaration/askaration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 💫 About Me:
 
-🚧 **Currently, I am working on the Transportation Data Science Project (TDSP)**, in collaboration with and sponsored by the NorthEastBigData Hub, Columbia University, and the US Department of Transportation. This initiative allows me to apply data science techniques to create safer roads by making data-driven recommendations. I'm involved in all aspects, from data preparation and ethics to time series and geospatial analysis. It's an amazing opportunity to hone skills like Python programming, data visualization, and critical thinking, while creating real-world impact through data storytelling.
+👋 I'm Moustafa Ibrahim — a **Data Scientist and Strategy Analyst** based in the NY/NJ metro area, passionate about blending data, storytelling, and business strategy to solve meaningful problems across industries.
 
-🤝 **I'm open to collaborations on data science and machine learning projects**, with a particular passion for sports data science. My goal is to expand my knowledge, gain hands-on experience, and enhance my portfolio through impactful projects.
+🚀 **Currently at American Express**, I own and lead strategic analytics initiatives that impact executive decision-making and global operations. My work includes automating enterprise scorecards, building risk intelligence frameworks, and delivering people analytics at scale.
 
-📊 **I can help with real-time sports advanced statistics**, especially focusing on the collection, analysis, and interpretation of data to drive performance insights.
+🧠 **Projects I Lead at Amex**:
+- 📊 *Colleague Scorecard*: Tracks retention and culture KPIs monthly and supports 10% of Amex’s enterprise performance evaluation.
+- ⚠️ *Risk Appetite Framework*: Monitors quarterly attrition risk across 17 legal entities and 5 major business units.
+- 🧩 *Business Impact Assessment*: Maps critical personnel hierarchies to mitigate business disruption risks.
 
-📚 **I’m currently learning more about data science, analytics, visualization, and storytelling**, and I’m excited to apply these skills across diverse domains, especially in sports and entertainment.
+🏛️ **Previously at Tata Consultancy Services**, I delivered client-facing dashboards, SQL pipelines, and data analysis for Quest Diagnostics and sustainability projects.
 
-💡 **Ask me about any data science-related topics!** Even if I don’t know the answer, your question will inspire me to find it and learn together.
+📍 **Currently Working On**:  
+**Transportation Data Science Project (TDSP)** with Columbia University, the NorthEastBigData Hub, and the U.S. Department of Transportation — applying geospatial, time series, and ethical data practices to make roads safer.
 
-🏊‍♂️ **Fun fact:** I'm a swimmer, water polo player, and tennis enthusiast. I love watching sports live, and I’ve even modeled twice! My passions revolve around sports, media, entertainment, and tech.
+🏟️ **Passionate about Sports & Strategy**:  
+I'm especially interested in sports data science, fan engagement analytics, and the intersection of media, technology, and performance. Open to collaborating on sports tech and real-time analytics projects.
 
+📣 **What I bring to the table**:
+- End-to-end ownership of analytics pipelines and strategic initiatives
+- Communicating complex findings through clean, executive-ready insights
+- Navigating ambiguity to identify root problems and build automated solutions
+- Enthusiastic team player with a love for cross-functional collaboration
 
+🏊‍♂️ **Fun Fact**: I’m a competitive swimmer, water polo player, and tennis fan. I’ve also modeled (twice!) — so I know how to bring data and presentation together 😉
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mousibrahim/) 
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mousibrahim/) 
+
+---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+<!-- Keep your existing tech stack badges here (unchanged for visual consistency) -->
+
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=askaration&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=askaration&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=askaration&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -52,5 +55,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=askaration&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
